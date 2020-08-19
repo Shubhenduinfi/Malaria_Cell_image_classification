@@ -1,6 +1,6 @@
 # Malaria_Cell_image_classification
-Malaria cell image classification by CNN
-Content
+Malaria cell image classification by CNN.
+
 The dataset contains 2 folders
 
 Infected
